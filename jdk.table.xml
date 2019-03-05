@@ -1,0 +1,101 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (Recepcion_labs-master)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Recepcion_labs-master\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Recepcion_labs-master/Lib" type="simple" />
+            <root url="file://D:/Recepcion_labs-master/Scripts" type="simple" />
+            <root url="file://C:/Python36-32/Lib" type="simple" />
+            <root url="file://C:/Python36-32/DLLs" type="simple" />
+            <root url="file://D:/Recepcion_labs-master" type="simple" />
+            <root url="file://D:/Recepcion_labs-master/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-616969979" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Recepcion_labs-master/src" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (Proyecto)" />
+      <type value="Python SDK" />
+      <homePath value="E:\Nueva carpeta\Proyecto\Proyecto\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Nueva carpeta/Proyecto/Proyecto" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Proyecto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="E:\Nueva carpeta\Proyecto\Proyecto\virtualenv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python36-32/DLLs" type="simple" />
+            <root url="file://C:/Python36-32/Lib" type="simple" />
+            <root url="file://C:/Python36-32" type="simple" />
+            <root url="file://E:/Nueva carpeta/Proyecto/Proyecto/virtualenv" type="simple" />
+            <root url="file://E:/Nueva carpeta/Proyecto/Proyecto/virtualenv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/Nueva carpeta/Proyecto/Proyecto/virtualenv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/31092682" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Nueva carpeta/Proyecto/Proyecto" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Python36-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python36-32/DLLs" type="simple" />
+            <root url="file://C:/Python36-32/Lib" type="simple" />
+            <root url="file://C:/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://C:/Python36-32/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-273572998" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
